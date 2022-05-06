@@ -1,0 +1,162 @@
+|	"The Story of the Drum"	#1,36,18
+|	"African Chant"	#8,36,18
+|	"All is Beautiful"	#9,36,18
+|	"Ancestor Song"	#10,36,18
+|	"Ancestor Song - Crow"	#11,36,18
+|	"Apache Chant"	#12,36,18
+|	"Arapaho Sundance Song"	#13,36,18
+|	"Ate Wakan Tanka #2"	#14,36,18
+|	"Athabaskan Bear / Raven Dance"	#15,36,18
+|	"Bear Song #1"	#16,36,18
+|	"Bear Song #2"	#17,36,18
+|	"Bear Tribe's Eagle Traveling"	#18,36,18
+|	"Beautiful Comanche"	#19,36,18
+|	"Brave Man Song"	#20,36,18
+|	"Buffalo Honoring Song"	#21,36,18
+|	"Cedar Song"	#22,36,18
+|	"Change Song"	#23,36,18
+|	"Cherokee Change Song - Honor"	#24,36,18
+|	"Cherokee Change Song - Dance"	#25,36,18
+|	"Cherokee Healing Song"	#26,36,18
+|	"Cherokee Morning Song"	#27,36,18
+|	"Cheyenne Sundance Song - Billy 1"	#28,36,18
+|	"Cheyenne Sundance Song - Billy 2"	#29,36,18
+|	"Cheyenne Sundance Song - Billy 3"	#30,36,18
+|	"Cheyenne Welcoming Song"	#31,36,18
+|	"Cheyenne Welcoming Song #1 - Billy 1"	#32,36,18
+|	"Chinook Welcoming Song"	#33,36,18
+|	"Comanche Ball Buster"	#34,36,18
+|	"Comanche Song #1"	#35,36,18
+|	"Comanche Song #2"	#36,36,18
+|	"Comanche Song #3"	#37,36,18
+|	"Comanche Song #4"	#38,36,18
+|	"Cowboy"	#39,36,18
+|	"Cree Sundance Song"	#40,36,18
+|	"Cree 'Wake up in the Morning' Song"	#41,36,18
+|	"Creek Duck Dance"	#42,36,18
+|	"Crow Hop"	#43,36,18
+|	"Crow Spirit Sundance Song #1"	#44,36,18
+|	"Crow Sundance Song #1"	#45,36,18
+|	"Crow Sundance Song #2"	#46,36,18
+|	"Crow Sundance Song #3"	#47,36,18
+|	"Crow Sundance Song #5"	#48,36,18
+|	"Directions Calling in Song - Lakota"	#49,36,18
+|	"Do Not Collect- Comanche Warrior Honoring"	#50,36,18
+|	"Do Not Pass Go"	#51,36,18
+|	"An Eagle is Coming - Lakota"	#52,36,18
+|	"Eagle Traveling Song"	#53,36,18
+|	"Freja's Song"	#54,36,18
+|	"The Forgiveness Song"	#55,36,18
+|	"Gathering Song"	#56,36,18
+|	"Grandmother Easter's Lullaby"	#57,36,18
+|	"Grandmother Honoring Song"	#58,36,18
+|	"Great Father Spirit Song"	#59,36,18
+|	"Gula Gula - Laplander"	#60,36,18
+|	"Healing Song"	#62,36,18
+|	"Hoop Dance Song"	#63,36,18
+|	"Hopi Earth Healing Song"	#64,36,18
+|	"Hopi Harvest Song"	#65,36,18
+|	"Hopi Traveling Song - East Healing Song"	#66,36,42
+|	"Horse Stealing Song #1"	#67,36,18
+|	"Horse Stealing Song #2"	#68,36,18
+|	"Hummingbird Song"	#69,36,18
+|	"Intertribal Song #1"	#70,36,18
+|	"Intertribal Song #2"	#71,36,18
+|	"Inuit Lullaby Song"	#72,36,18
+|	"Jemez Buffalo Dance - Original"	#73,36,18
+|	"Jemez Buffalo Dance - Variation"	#74,36,18
+|	"Josie's Sioux Song #1"	#75,36,18
+|	"Josie's Sioux Song #2"	#76,36,18
+|	"Another Josie Song"	#77,36,18
+|	"Josie's Lakota Song"	#78,36,18
+|	"Kiowa Sundance Song"	#79,36,18
+|	"Kiowa Memorial Song"	#80,36,18
+|	"Lakota Children's Song"	#81,36,18
+|	"Lakota Horse Dance Song"	#82,36,18
+|	"Lakota Spirit Dance Song"	#83,36,18
+|	"Lakota Sundance Prayer Song #1"	#84,36,18
+|	"Lakota Sundance Prayer Song #3"	#85,36,18
+|	"Lakota Sundance Song #4"	#86,36,18
+|	"Lakota Sundance Song #6"	#87,36,18
+|	"Lakota Sundance Song #11"	#88,36,18
+|	"Lakota Sundance Song #15"	#89,36,18
+|	"Lakota Sundance Exit Song"	#90,36,18
+|	"Lakota Vision Quest Song"	#91,36,18
+|	"Lakota Wakan Tanka Chant"	#92,36,18
+|	"Laplander Song"	#93,36,18
+|	"Little People Song"	#95,36,18
+|	"Menominee Love Song"	#96,36,18
+|	"Menominee Round Dance Song"	#97,36,18
+|	"Moon Song"	#98,36,18
+|	"Morning Song"	#99,36,18
+|	"Mother"	#100,36,18
+|	"Mother Earth Song"	#101,36,18
+|	"Navajo Hogan Blessing Song"	#102,36,18
+|	"Navajo Honoring Song"	#103,36,18
+|	"Navajo Lullaby Song"	#104,36,18
+|	"Navajo Mother Earth Song"	#105,36,18
+|	"Navajo Veteran's Honoring Song"	#106,36,18
+|	"Nez Perce Honor Song"	#107,36,18
+|	"No Doubt"	#108,36,18
+|	"Northern Lights Song"	#109,36,18
+|	"Ojibway Grass Dance Song"	#110,36,18
+|	"Ojibway Intertribal Song"	#111,36,18
+|	"Ojibway Intertribal"	#112,36,18
+|	"Oklahoma Intertribal Song #1"	#113,36,18
+|	"Oklahoma Intertribal Song #2"	#115,36,18
+|	"Oklahome Round Dance"	#116,36,18
+|	"Old Fart Comanche"	#117,36,18
+|	"Opening the Fifth World"	#118,36,18
+|	"Oyate Wama Yanka Po"	#119,36,18
+|	"Penobscot Song"	#120,36,18
+|	"Polar Bear Song"	#121,36,18
+|	"Ponca Chief Song"	#122,36,18
+|	"Power of the Hardin Bratt"	#123,36,18
+|	"Pretty Comanche"	#124,36,18
+|	"Quitting Song"	#125,36,18
+|	"River Song"	#126,36,18
+|	"Sadie's Song"	#127,36,18
+|	"Saint John's Hymn - Comanche"	#128,36,18
+|	"Screaming Cantor Song"	#129,36,18
+|	"Shawnee - Four Corners"	#130,36,18
+|	"She Dips Water"	#131,36,18
+|	"Shield Song"	#132,36,18
+|	"Silver Cloud Ancestor Song"	#133,36,18
+|	"Sister Beauty Flies"	#134,36,18
+|	"Smoke Dance Song"	#135,36,18
+|	"Spirit Song"	#136,36,18
+|	"Squanasi"	#137,36,18
+|	"Stoney Park #1 - Honor Song"	#138,36,18
+|	"Stoney Park #2"	#139,36,18
+|	"Sundance Song #1"	#140,36,18
+|	"Sundance Song #2"	#141,36,18
+|	"Sundance Song #3"	#142,36,18
+|	"Sundance Trilogy"	#143,36,18
+|	"Sweet Comanche"	#144,36,18
+|	"Taos Pueblo Round Dance"	#145,36,18
+|	"Taos Round Dance"	#146,36,18
+|	"Thank You Song - Lakota"	#147,36,18
+|	"Travel Song"	#148,36,18
+|	"Traveling Song"	#149,36,18
+|	"Tunkashila"	#150,36,18
+|	"Ute Bear Dance Song"	#151,36,18
+|	"Ute Honor Song"	#152,36,18
+|	"Veteran's Honoring - Lakota"	#153,36,18
+|	"Veteran's Honoring Song"	#154,36,18
+|	"Wake Up Song"	#155,36,18
+|	"Wash Your Spirit Clean - Cherokee"	#156,36,18
+|	"Wey La La"	#157,36,18
+|	"White Buffalo Calf Woman"	#158,36,18
+|	"White Eagle Intertribal #1"	#159,36,18
+|	"White Eagle Intertribal #2"	#160,36,18
+|	"White Eagle Round Dance"	#161,36,18
+|	"Wild Boy's Song"	#162,36,18
+|	"Wilma Mankiller's Song"	#163,36,18
+|	"Windspirit Chant"	#164,36,18
+|	"Woman's Song"	#165,36,18
+|	"Women's Honoring Song"	#166,36,18
+|	"Women's Traditional Round Dance"	#167,36,18
+|	"Women's Warrior Song"	#168,36,18
+|	"Yemaya"	#169,36,18
+|	"Zuni Comanche Dance"	#170,36,18
+|	"Zuni Sunrise Song"	#171,36,18
