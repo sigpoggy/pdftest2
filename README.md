@@ -1,16 +1,9 @@
 # pdftest2
 
-A new Flutter project.
+This is a project to test the pdfx package.
 
-## Getting Started
+It will download a pdf or get from assets, and display it.
 
-This project is a starting point for a Flutter application.
+It will get an index file, and show a table of contents dialog and go to the page selected.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+It demonstrates how to position and size the view.
